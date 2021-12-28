@@ -1,3 +1,2 @@
 # import flask
-print("dhiraj",end=(","))
-print("pihu")
+print("dhirajpatil" , "chetan patil" , end=" ")
